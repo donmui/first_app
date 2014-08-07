@@ -23,4 +23,7 @@ Things you may want to cover:
 
 * ...
 
-HELLO WORLD
+First things i want to change or try to do is put content onto my new rails project.
+
+Best wishes,
+Domi
